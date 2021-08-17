@@ -4,7 +4,7 @@
 <p> I made this simple game. It is currently WIP and a project just to experiment with development. But, I am proud of it. </p>
 <h3> Installation </h3>
 <p> on Linux, use: </p>
-  sudo curl -s https://github.com/AustinBoath/Lemonator/install.sh
+  sudo curl -s https://github.com/AustinBoath/Lemonator/blob/main/install.sh
 <p> The bash script should do all the work for you. </p>
 <br>
 <p> Alternatively, on Windows download the repository to a folder & run it with Python in CMD. Should be similar on MacOS </p>
