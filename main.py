@@ -14,5 +14,8 @@ if firstmotivation > 2:
     firstmotivation=input("Invalid input. Please enter 1 or 2: ");
     if firstmotivation > 1:
         firstmotivation=input("Invalid input. Please enter 1 or 2: ");
-    if lemons = >=< 0:
-        print("what a shame. You are only using a free trial of this game. You will need to buy the full version. Wait, this is GNU GPL software. Never mind. The developer is just too lazy to finish the game.")
+        money = 20 - (lemons*5);
+    print("Lemons:")
+    print(lemons)
+    print("Money:")
+    print(money)
