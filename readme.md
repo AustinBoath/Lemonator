@@ -3,7 +3,7 @@
 <h3> About </h3>
 <p> I made this simple text-based game. It is currently WIP and a project just to experiment with development. But, I am proud of it. </p>
 <h3> Installation </h3>
-<p> on Linux, use: </p>
+<p> on Linux you can use</p>
 <code>sudo curl -s https://raw.githubusercontent.com/AustinBoath/Lemonator/main/install.sh</code>
 <p> The bash script should do all the work for you. </p>
 <br>
