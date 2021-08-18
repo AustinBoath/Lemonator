@@ -1,7 +1,7 @@
 <h1> The Lemonator </h1>
 <h2> by Austin Boath </h2>
 <h3> About </h3>
-<p> I made this simple game. It is currently WIP and a project just to experiment with development. But, I am proud of it. </p>
+<p> I made this simple text-based game. It is currently WIP and a project just to experiment with development. But, I am proud of it. </p>
 <h3> Installation </h3>
 <p> on Linux, use: </p>
 <code>sudo curl -s https://raw.githubusercontent.com/AustinBoath/Lemonator/main/install.sh</code>
